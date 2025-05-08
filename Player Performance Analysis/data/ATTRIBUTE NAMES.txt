@@ -1,0 +1,35 @@
+NON-GK
+['Non-Penalty Goals', 0
+  'Non-Penalty xG', 1
+  'Shots Total', 2
+  'Assists', 3
+  'xAG', 4
+  'npxG + xAG', 5
+  'Shot-Creating Actions', 6
+  'Passes Attempted', 7
+  'Pass Completion %', 8
+  'Progressive Passes', 9
+  'Progressive Carries', 10
+  'Successful Take-Ons', 11
+  'Touches (Att Pen)', 12
+  'Progressive Passes Rec', 13
+  'Tackles', 14
+  'Interceptions', 15
+  'Blocks', 16
+  'Clearances', 17
+  'Aerials won'] 18
+
+GK
+['PSxG-GA',
+  'Goals Against', 1
+  'Save Percentage', 2
+  'PSxG/SoT',
+  'Save% (Penalty Kicks)', 4
+  'Clean Sheet Percentage', 5
+  'Touches',
+  'Launch %',
+  'Goal Kicks',
+  'Avg. Length of Goal Kicks',
+  'Crosses Stopped %', 10
+  'Def. Actions Outside Pen. Area',
+  'Avg. Distance of Def. Actions']
